@@ -16,5 +16,5 @@ Jeu de gestion et de simulation de production et distribution d’énergie.
 MVC (Modèle – Vue – Contrôleur)
 
 ## Répartition des tâches
-- Étudiant 1 : Simulation, modèle, logique métier
-- Étudiant 2 : Interface graphique, contrôleurs
+- KEGDIGOMA DITOMA : Simulation, modèle, logique métier
+- DJAGNIKPO ILETOU : Interface graphique, contrôleurs
